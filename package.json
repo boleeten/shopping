@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
+  "figma": {
+    "designFileKey": "nqfwgsol",
+    "defaultNodeId": "0:1",
+    "designUrl": "https://www.figma.com/design/nqfwgsol/shopping_high"
+  },
   "scripts": {
     "build": "vite build",
     "dev": "vite"
